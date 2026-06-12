@@ -183,3 +183,7 @@ Keep for reference, or delete if no longer needed.
 ## ✅ Result
 
 A fully automated, parameterized CI/CD pipeline: Jenkins provisions its own infrastructure via Terraform, then a single pipeline run (with manual approval) provisions a production-grade EKS cluster and deploys a containerized Nginx application exposed via AWS LoadBalancer — with a one-click `destroy` option for teardown.
+
+## 👨‍💻 Author
+**Hafiz Muhammad Umar Rafique**
+- GitHub: [@hmurafique](https://github.com/hmurafique)
