@@ -1,4 +1,5 @@
-# DevOps-Project-012: From Scratch to Production — Deploying EKS Clusters & Applications with CI/CD using Jenkins and Terraform
+# DevOps-Project-012
+# From Scratch to Production — Deploying EKS Clusters & Applications with CI/CD using Jenkins and Terraform
 
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-1.15.6-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
